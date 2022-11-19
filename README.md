@@ -27,4 +27,8 @@ Anda dapat mengakses aplikasi ini di
    npm start
    npm test
    ```
+## Hasil Test
+   Proyek ini diuji menggunakan jest dan supertest. Proyek ini juga menggunakan EsLint sebagai linter kodenya.
+
+   <img src="docs/tests.png" alt="Page" width="650" height="300">
 
